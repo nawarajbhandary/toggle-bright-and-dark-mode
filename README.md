@@ -1,9 +1,8 @@
 # toggle-bright-and-dark-mode
 
-# JS code to define body class dark 
+- JS code to define body class dark \*
 
-
-``` 
+```
 let toggle = document.getElementById("mode");
 
 toggle.addEventListener("click", () => {
@@ -12,7 +11,7 @@ toggle.addEventListener("click", () => {
 
 ```
 
-##Pseudoclass to implement toggle button 
+##Pseudoclass to implement toggle button
 
 ```shell
 
@@ -48,4 +47,4 @@ input[type="checkbox"]:checked {
 
 ```
 
-`Use of var to impletement Dark and Light theme in CSS` 
+`Use of var to impletement Dark and Light theme in CSS`

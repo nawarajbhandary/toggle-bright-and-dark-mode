@@ -88,7 +88,10 @@ input[type="checkbox"] {
   height: 40px;
   border-radius: 50px;
   outline: none;
-  background-color: rgb(172, 163, 163);
+  background-image: url(./ICONS/Light\ mode.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 input[type="checkbox"]::before {
@@ -107,5 +110,9 @@ input[type="checkbox"]:checked::before {
 }
 
 input[type="checkbox"]:checked {
-  background-color: black;
+  background-image: url(./ICONS/Dark\ Mode.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-clip: initial;
 }
