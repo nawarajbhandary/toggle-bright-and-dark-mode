@@ -1,6 +1,10 @@
 # toggle-bright-and-dark-mode
 
+<<<<<<< HEAD
 - JS code to define body class dark \*
+=======
+** JS code to define body class dark 
+>>>>>>> adde4518166953539bf3432675b89b03baeef703
 
 ```
 let toggle = document.getElementById("mode");
