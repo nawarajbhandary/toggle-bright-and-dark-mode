@@ -1,6 +1,6 @@
 # toggle-bright-and-dark-mode
 
-## JS code to define body class dark 
+# JS code to define body class dark 
 
 
 ``` 
